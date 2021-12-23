@@ -7,5 +7,6 @@ L'app doit disposée de trois écrans principaux pilotés par une tabBar.
 
 Le premier écran est un écran d'acceuil simple.
 Le second, l'écran "Carte" affiche la liste des restaurants disponibles sous forme d'image arrondie interactive (l'utilisation d'image interactive via les gestureReconiz et les tags est imposée). L'écran doit faire passer les détails du restaurant sélectionné à l'écran suivant.
+Enfin, le dernier écran affiche un bouton qui actione une navigation simple vers une vue modale qui affiche les informations de contact de l'application.
 
 Pour cet exercice, je me suis imposé comme difficulté supplémentaire le fait de respecter l'architecture dîte "Model View Controlle" (MVC).
