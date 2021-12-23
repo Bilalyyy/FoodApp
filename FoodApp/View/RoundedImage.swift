@@ -23,7 +23,7 @@ class RoundedImage: UIImageView {
     func setup() {
         self.layer.cornerRadius = self.frame.height / 2
         self.layer.borderWidth = 2
-        self.layer.borderColor = UIColor.lightGray.cgColor
+        self.layer.borderColor = UIColor.black.cgColor
     }
     
 }

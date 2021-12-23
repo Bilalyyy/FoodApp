@@ -16,6 +16,9 @@
 		9C1918F527744D79009CA553 /* Food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1918F427744D79009CA553 /* Food.swift */; };
 		9C1918F727744DF2009CA553 /* Datas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1918F627744DF2009CA553 /* Datas.swift */; };
 		9C1918F92774543D009CA553 /* RoundedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1918F82774543D009CA553 /* RoundedImage.swift */; };
+		9C1918FB27746D76009CA553 /* CarteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1918FA27746D76009CA553 /* CarteViewController.swift */; };
+		9C1918FD27747860009CA553 /* DetailCarteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1918FC27747860009CA553 /* DetailCarteViewController.swift */; };
+		9C1918FF27748196009CA553 /* ContactDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1918FE27748196009CA553 /* ContactDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,9 @@
 		9C1918F427744D79009CA553 /* Food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Food.swift; sourceTree = "<group>"; };
 		9C1918F627744DF2009CA553 /* Datas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Datas.swift; sourceTree = "<group>"; };
 		9C1918F82774543D009CA553 /* RoundedImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedImage.swift; sourceTree = "<group>"; };
+		9C1918FA27746D76009CA553 /* CarteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarteViewController.swift; sourceTree = "<group>"; };
+		9C1918FC27747860009CA553 /* DetailCarteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailCarteViewController.swift; sourceTree = "<group>"; };
+		9C1918FE27748196009CA553 /* ContactDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +102,9 @@
 			isa = PBXGroup;
 			children = (
 				9C1918E127744C9B009CA553 /* ViewController.swift */,
+				9C1918FA27746D76009CA553 /* CarteViewController.swift */,
+				9C1918FC27747860009CA553 /* DetailCarteViewController.swift */,
+				9C1918FE27748196009CA553 /* ContactDetailViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -174,7 +183,10 @@
 				9C1918E227744C9B009CA553 /* ViewController.swift in Sources */,
 				9C1918F527744D79009CA553 /* Food.swift in Sources */,
 				9C1918F727744DF2009CA553 /* Datas.swift in Sources */,
+				9C1918FD27747860009CA553 /* DetailCarteViewController.swift in Sources */,
+				9C1918FF27748196009CA553 /* ContactDetailViewController.swift in Sources */,
 				9C1918F92774543D009CA553 /* RoundedImage.swift in Sources */,
+				9C1918FB27746D76009CA553 /* CarteViewController.swift in Sources */,
 				9C1918DE27744C9B009CA553 /* AppDelegate.swift in Sources */,
 				9C1918E027744C9B009CA553 /* SceneDelegate.swift in Sources */,
 			);
